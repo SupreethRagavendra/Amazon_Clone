@@ -14,6 +14,9 @@ This project is a Non functional e-commerce platform that replicates core featur
 ## Technologies Used
 HTML, CSS, 
 
+## LiveDemo
+<a href="https://bespoke-unicorn-3e39e2.netlify.app/">LiveDemo<a>)
+
 ## Installation
 1. Clone the repository:
    ```bash
